@@ -79,4 +79,8 @@ File: `data/project_vrinda_stores_da.xlsx`
 | Gender Split            | Pivot: **Rows = Gender**, **Values = Sum of Amount**         |
 | % Orders by Channel     | `(Orders from Channel) / (Total Orders)`                     |
 
-  
+---
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard_img(2).png)
+
