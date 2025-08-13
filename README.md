@@ -82,5 +82,5 @@ File: `data/project_vrinda_stores_da.xlsx`
 ---
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard_img(2).png)
+![Dashboard Screenshot](dashboard_img.png)
 
